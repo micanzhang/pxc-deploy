@@ -27,6 +27,12 @@ vagrant ssh ha
 [ha] /vagrant/cluster/mysql/sysbench.sh run
 ```
 
+## Monitor
+
+### by prometheus
+
+See https://github.com/prometheus/mysqld_exporter.
+
 ## References
 
 - https://github.com/percona/xtradb-cluster-tutorial
